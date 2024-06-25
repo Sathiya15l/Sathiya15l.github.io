@@ -1,0 +1,41 @@
+body{
+    background-color: #d5fc9c;
+    margin-left: 100px;
+}
+table{
+    background-color: rgb(235, 238, 243);
+}
+.tophead{
+    font-family: sans-serif;
+    margin-top: 20px;
+    padding-top: 20px;
+}
+.head{
+    text-transform: uppercase;
+    font-family: ui-sans-serif;
+    font-size: medium;
+    font-weight: bold;
+}
+html{
+    background-color: darkgoldenrod;
+    background-blend-mode: hard-light;
+}
+#tablehead{
+    background-color: chocolate;
+    padding-left: 50px;
+}
+.innerhead{
+    text-transform: uppercase;
+    font-family: ui-sans-serif;
+    font-size: medium;
+    font-weight: bold;
+    font-style: italic;
+
+}
+.sample{
+    transition-delay: 1.25s;
+}
+.imagecss{
+    height: 300px;
+    width: 150px;
+}
